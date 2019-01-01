@@ -1,3 +1,11 @@
+.media-image img {
+	
+}
+
+.grayscale img {
+	filter: grayscale(100%);
+}
+
 .caption {
   color: $black-54;
   font: $font--caption;

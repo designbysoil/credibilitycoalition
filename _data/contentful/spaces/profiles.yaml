@@ -1,0 +1,92 @@
+---
+profile:
+- sys:
+    id: 3llG1cuubSgKAcgK4WQeAO
+    created_at: !ruby/object:DateTime 2019-01-01 01:12:09.594000000 Z
+    updated_at: !ruby/object:DateTime 2019-01-01 01:17:57.761000000 Z
+    content_type_id: profile
+    revision: 2
+  profile_name: Nate Angell
+  slug: nate-angell
+  profile_title: Hypothesis
+  photo:
+    sys:
+      id: 6rOWSAwP3Gq0QO2i2W8CQc
+      created_at: !ruby/object:DateTime 2019-01-01 01:11:52.620000000 Z
+      updated_at: !ruby/object:DateTime 2019-01-01 01:11:52.620000000 Z
+    title: Nate Angell
+    description: ''
+    url: "//images.ctfassets.net/tlowcqj4pb76/6rOWSAwP3Gq0QO2i2W8CQc/9762accf41f871eaf5621bb65dbdbe0e/nate-a_2x.jpg"
+  link: https://web.hypothes.is/
+- sys:
+    id: 7gxPbBR7xYUMKwoc8GO4w8
+    created_at: !ruby/object:DateTime 2019-01-01 01:13:45.512000000 Z
+    updated_at: !ruby/object:DateTime 2019-01-01 01:17:42.305000000 Z
+    content_type_id: profile
+    revision: 2
+  profile_name: Scott Appling
+  slug: scott-appling
+  profile_title: Georgia Institute of Technology
+  photo:
+    sys:
+      id: 6BYSnt45pKaGQ2YQQeUuSA
+      created_at: !ruby/object:DateTime 2019-01-01 01:13:40.083000000 Z
+      updated_at: !ruby/object:DateTime 2019-01-01 01:13:40.083000000 Z
+    title: Scott Appling
+    description: 
+    url: "//images.ctfassets.net/tlowcqj4pb76/6BYSnt45pKaGQ2YQQeUuSA/b9d0244593979a05fc97624fe73c5d9a/scott-a_2x.jpg"
+  link: http://www.gatech.edu/
+- sys:
+    id: 18zxSa38yycoWsqOS6As6
+    created_at: !ruby/object:DateTime 2019-01-01 01:14:35.518000000 Z
+    updated_at: !ruby/object:DateTime 2019-01-01 01:17:26.862000000 Z
+    content_type_id: profile
+    revision: 2
+  profile_name: Ed Bice
+  slug: ed-bice
+  profile_title: Meedan
+  photo:
+    sys:
+      id: 5Zoq9DluIo6mk4muc6aIIQ
+      created_at: !ruby/object:DateTime 2019-01-01 01:14:32.145000000 Z
+      updated_at: !ruby/object:DateTime 2019-01-01 01:14:32.145000000 Z
+    title: Ed Bice
+    description: 
+    url: "//images.ctfassets.net/tlowcqj4pb76/5Zoq9DluIo6mk4muc6aIIQ/fc4b150ddf6da05b19bcd31dfcbea494/ed-b_2x.jpg"
+  link: https://meedan.com/
+- sys:
+    id: 74ldgrADYcSmkAQuQAKoOK
+    created_at: !ruby/object:DateTime 2019-01-01 01:15:16.505000000 Z
+    updated_at: !ruby/object:DateTime 2019-01-01 01:17:12.973000000 Z
+    content_type_id: profile
+    revision: 2
+  profile_name: Robyn Caplan
+  slug: robyn-caplan
+  profile_title: Data & Society Research Institute
+  photo:
+    sys:
+      id: 3YFu4hmWjmSwye0yawAqqW
+      created_at: !ruby/object:DateTime 2019-01-01 01:15:13.579000000 Z
+      updated_at: !ruby/object:DateTime 2019-01-01 01:15:13.579000000 Z
+    title: Robyn Caplan
+    description: 
+    url: "//images.ctfassets.net/tlowcqj4pb76/3YFu4hmWjmSwye0yawAqqW/5b7b0e9c7ddf34d57a5914f71533594c/robyn-c_2x.jpg"
+  link: https://datasociety.net/
+- sys:
+    id: 1hfwkdIBUQgCCoeSKeWecS
+    created_at: !ruby/object:DateTime 2019-01-01 01:17:00.649000000 Z
+    updated_at: !ruby/object:DateTime 2019-01-01 01:17:00.649000000 Z
+    content_type_id: profile
+    revision: 1
+  profile_name: Renee DiResta
+  slug: renee-diresta
+  profile_title: Data for Democracy
+  photo:
+    sys:
+      id: 29oKdUqjUIMgMKW4okwqqy
+      created_at: !ruby/object:DateTime 2019-01-01 01:16:13.698000000 Z
+      updated_at: !ruby/object:DateTime 2019-01-01 01:16:13.698000000 Z
+    title: Renee DiResta
+    description: 
+    url: "//images.ctfassets.net/tlowcqj4pb76/29oKdUqjUIMgMKW4okwqqy/77975cb7a03fa26b4dfc23fd8ccbc758/renee-d_2x.jpg"
+  link: http://datafordemocracy.org/

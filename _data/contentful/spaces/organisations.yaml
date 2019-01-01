@@ -1,0 +1,34 @@
+---
+organisation:
+- sys:
+    id: 20zMq1lJHSSKOIEqoEAium
+    created_at: !ruby/object:DateTime 2019-01-01 03:37:01.312000000 Z
+    updated_at: !ruby/object:DateTime 2019-01-01 03:37:01.312000000 Z
+    content_type_id: organisation
+    revision: 1
+  title: Hacks/Hackers
+  logo:
+    sys:
+      id: 4SZgZWefDqIiIEqqWCgMQC
+      created_at: !ruby/object:DateTime 2019-01-01 03:36:56.681000000 Z
+      updated_at: !ruby/object:DateTime 2019-01-01 03:36:56.681000000 Z
+    title: Hacks/Hackers
+    description: 
+    url: "//images.ctfassets.net/tlowcqj4pb76/4SZgZWefDqIiIEqqWCgMQC/7c93e2807420e0385ff6a0cfb7482797/hh.png"
+  link: https://hackshackers.com/
+- sys:
+    id: 1epfS47QHoQiO8oWCsY6Ie
+    created_at: !ruby/object:DateTime 2019-01-01 03:38:03.684000000 Z
+    updated_at: !ruby/object:DateTime 2019-01-01 03:38:03.684000000 Z
+    content_type_id: organisation
+    revision: 1
+  title: Meedan
+  logo:
+    sys:
+      id: 2xUTbcWWp6k6KU8qeoCYwO
+      created_at: !ruby/object:DateTime 2019-01-01 03:37:57.120000000 Z
+      updated_at: !ruby/object:DateTime 2019-01-01 03:37:57.120000000 Z
+    title: Meedan
+    description: 
+    url: "//images.ctfassets.net/tlowcqj4pb76/2xUTbcWWp6k6KU8qeoCYwO/a8cb478ec65a22c793023f4133133a39/meedan.svg"
+  link: https://meedan.com/
