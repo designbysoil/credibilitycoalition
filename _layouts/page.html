@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 	{% include head.html %}
-	<body class="">
+	<body class="{%if page.url %}{{ page.url | slugify }}{% endif %}">
 
 		{% include nav.html %}
 

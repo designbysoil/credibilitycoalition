@@ -7,7 +7,7 @@
 		{{ module.description | markdownify }}
 	{% endif %}
 	{% assign profiles = site.data.contentful.spaces.profiles.profile %}
-	<ul class="contributors layout--padding-top">
+	<ul class="contributors unstyled layout--padding-top">
 		{% for p in module.profiles %}
 			{% for profile in profiles %}
 				{% if p.sys.id == profile.sys.id %}

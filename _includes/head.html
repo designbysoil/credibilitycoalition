@@ -5,6 +5,7 @@
   <meta content="text/html; charset=UTF-8" name="Content-Type" />
   <title>{% if page.title %}{{ page.title }}{% endif %}{{ site.title | escape | prepend: ' | ' }}</title>
   <link rel="apple-touch-icon" href="apple-touch-icon.png"> 
+  {% include ga.html %}
   <link rel="stylesheet" type="text/css" href="/css/main.css">
   {% if page.custom_css %}
     {% for stylesheet in page.custom_css %}

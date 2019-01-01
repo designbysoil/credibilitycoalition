@@ -8,7 +8,7 @@
 	{% endif %}
 	{% assign mentions = site.data.contentful.spaces.mentions.mention %}
 	{% assign module_mentions_sorted = module.mentions %}
-	<ul class="press layout--padding-bottom">
+	<ul class="press unstyled layout--padding-bottom">
 		{% for u in module_mentions_sorted %}
 			{% for mention in mentions  %}
 				{% if u.sys.id == mention.sys.id %}

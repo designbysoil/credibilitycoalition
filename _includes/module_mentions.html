@@ -8,7 +8,7 @@
 	{% endif %}
 	{% assign mentions = site.data.contentful.spaces.mentions.mention %}
 	{% assign module_mentions_sorted = module.mentions | reverse %}
-	<ul class="timeline">
+	<ul class="timeline unstyled">
 		{% for u in module_mentions_sorted %}
 			{% for mention in mentions  %}
 				{% if u.sys.id == mention.sys.id %}
