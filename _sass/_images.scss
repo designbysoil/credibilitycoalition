@@ -1,5 +1,8 @@
-.media-image img {
-	
+.media-image a {
+	cursor: pointer;
+  	cursor: -webkit-zoom-in;
+  	cursor: -moz-zoom-in;
+  	cursor: zoom-in;
 }
 
 .grayscale img {

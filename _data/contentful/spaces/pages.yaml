@@ -214,9 +214,9 @@ page:
   - sys:
       id: 1qO9VoL1zayOO0yg60848Y
       created_at: !ruby/object:DateTime 2019-01-01 01:40:44.110000000 Z
-      updated_at: !ruby/object:DateTime 2019-01-01 01:40:44.111000000 Z
+      updated_at: !ruby/object:DateTime 2019-01-01 06:37:12.681000000 Z
       content_type_id: moduleImage
-      revision: 1
+      revision: 2
     caption: "(Clockwise from upper right) Patricia Martin, Joel Schlosser and Connie
       Moon Sehat discuss ideas during a breakout session at the 2017 New York working
       group meeting. Photo courtesy the Brown Institute."
@@ -228,7 +228,7 @@ page:
       title: 2017 New York working group meeting
       description: 
       url: "//images.ctfassets.net/tlowcqj4pb76/1agO7IAIlawy28wMEMQY0O/89516aa9296748a97058b287731e9f73/photo-1.jpg"
-    filter_image: false
+    filter_image: true
   - sys:
       id: 46ytWjLMS4oUYI2wMK0Wk8
       created_at: !ruby/object:DateTime 2019-01-01 01:41:24.192000000 Z
