@@ -377,9 +377,9 @@ page:
   - sys:
       id: 1yVoA3OEhy0M8K8o4aiiEe
       created_at: !ruby/object:DateTime 2019-01-01 02:18:22.950000000 Z
-      updated_at: !ruby/object:DateTime 2019-01-01 02:18:22.950000000 Z
+      updated_at: !ruby/object:DateTime 2019-01-02 19:59:24.650000000 Z
       content_type_id: moduleCitation
-      revision: 1
+      revision: 2
     title: PAPERS
     citation: 'Amy Zhang, Aditya Ranganathan, Sarah Emlen Metz, Scott Appling, Connie
       Moon Sehat, Norman Gilmore, Nick B. Adams, Emmanuel Vincent, Jennifer 8. Lee,
@@ -389,7 +389,7 @@ page:
     description: |+
       The proliferation of misinformation in online news and its amplification by platforms are a growing concern, leading to numerous efforts to improve the detection of and response to misinformation. Given the variety of approaches, collective agreement on the indicators that signify credible content could allow for greater collaboration and data-sharing across initiatives. In this paper, we present an initial set of indicators for article credibility defined by a diverse coalition of experts. These indicators originate from both within an article’s text as well as from external sources or article metadata. As a proof-of-concept, we present a dataset of 40 articles of varying credibility annotated with our indicators by 6 trained annotators using specialized platforms. We discuss future steps including expanding annotation, broadening the set of indicators, and considering their use by platforms and the public, towards the development of interoperable standards for content credibility.
 
-      Download the [paper](https://credibilitycoalition.org/pdfs/CredCoWebConf2018.pdf). PDF
+      Download the [paper](https://assets.ctfassets.net/tlowcqj4pb76/4lmUdUz36gQuOKO0UOwEU2/819497f46f25a9cfcbaa7d4b5db8e354/CredCoWebConf2018.pdf). PDF
 
       #### Dataset
       View [data](https://data.world/credibilitycoalition/webconf-2018).
