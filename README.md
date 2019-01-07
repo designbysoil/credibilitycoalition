@@ -26,7 +26,7 @@ And run `source ~/.bashrc` or open new terminal to enable changes.
 credibilitycoalition.org is deployed on Netlify. Adding a website on Netlify is super easy. All these settings are under [Build & Deploy](https://app.netlify.com/sites/credco/settings/deploys) section of [Netlify's web app](https://app.netlify.com). Here are the main steps:
 
 1. Select which Github repository and branch to deploy.
-2. Specify this build command: `CONTENTFUL_ENVIRONMENT=master jekyll contentful --rebuild`
+2. Specify this build command: `CONTENTFUL_ENVIRONMENT=master bundle exec jekyll contentful --rebuild`
 3. Add build environment variables `CONTENTFUL_CC_SPACE_ID` and `CONTENTFUL_CC_ACCESS_TOKEN`. `CONTENTFUL_ENVIRONMENT` is specified with the build command so no need to add it as an environment variable.
 4. Add build hooks for Contentful's master and develop environment. Get the webhook urls using the [Contentful web app](https://app.contentful.com). Open the space and navigate to the *Settings > Webhooks*. You will see two webhooks already setup. See their details to copy the url or adjust what triggers it. See Contentful's [Intro to webhooks](https://www.contentful.com/developers/docs/concepts/webhooks/) to learn more.
 5. To configure custom build command for deploying changes made to the Develop environment in Contentful, use Netlify's [Deploy Contexts](https://www.netlify.com/docs/continuous-deployment/#deploy-contexts) to specify the build command in a [netlify.toml](https://github.com/meedan/popupnewsroom/blob/master/netlify.toml) file. To deploy develop use this build command: `CONTENTFUL_ENVIRONMENT=develop bundle exec jekyll contentful --rebuild`
